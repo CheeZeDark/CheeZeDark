@@ -1,11 +1,8 @@
-# Hello, My Name is CheeZeDark
+# Hello, My Name is CheeZeDark(Rikko Matsumato)
 
-I'm Professional Coding on C#, C++, Python and Pascal... And I'm Making Some Games :)
+I'm Professional Coding on C#, C++, Python, Ren'Py, Rust, Java, CSS, SCSS and HTML... And I'm Reverse Engineering Games!!!
 
-# Donation
 
-[Patreon](https://www.patreon.com/cheezedarkofficial)
+## Donations
 
-# Join To My Discord
-
-[Join](https://discord.gg/BK9QWWynpd)
+[LiberaPay](https://liberapay.com/RikkoMatsumatoOfficial/donate)
