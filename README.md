@@ -1,6 +1,6 @@
 # Hello, My Name is CheeZeDark(Rikko Matsumato)
 
-I'm Programming into C#, C++, Python, Ren'Py, Rust, Java, TypeScript, JavaScript, LUA, CSS, SCSS and HTML... And I'm Reverse Engineering Games!!!
+I'm Programming into C#, C++, Python, Ren'Py, Rust, Java, TypeScript, JavaScript, LUA, CSS, SCSS and HTML... And I'm Reversing Games just for fun and educational purposal!!!
 
 [My GitLab Account](https://gitlab.com/RikkoMatsumatoOfficial)
 
