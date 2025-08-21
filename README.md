@@ -6,6 +6,7 @@ Also Learning Programming into Kali Linux!!!
 
 [My GitLab Account](https://gitlab.com/RikkoMatsumatoOfficial)
 
+[Join to My Discord Server](https://discord.gg/3UFJqWsEsk)
 
 ## Donations
 
