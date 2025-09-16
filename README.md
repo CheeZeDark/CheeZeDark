@@ -4,6 +4,7 @@ I'm Programming into C#, C++, Python, Ren'Py, Rust, Java, TypeScript, JavaScript
 
 Also Learning Programming into Kali Linux!!!
 
+[My Email if you needed help or if you hire me at work or works](mailto:cheezedarkofficial@gmail.com)
 [My GitLab Account](https://gitlab.com/RikkoMatsumatoOfficial)
 
 [Join to My Discord Server](https://discord.gg/3UFJqWsEsk)
