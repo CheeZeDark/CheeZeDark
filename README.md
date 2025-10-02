@@ -4,7 +4,7 @@ I'm Programming into C#, C++, Python, Ren'Py, Rust, Java, TypeScript, JavaScript
 
 Also Learning Programming into Kali Linux and Programming Languages as SystemVerilog and Verilog for Educational Purposal and Creating some DMA Driver Devices!!!
 
-[My Email if you needed help or if you hire me at work or works](mailto:cheezedarkofficial@gmail.com)
+[My Email if you needed help or if you want to hire me about work or works](mailto:cheezedarkofficial@gmail.com)
 
 [My GitLab Account](https://gitlab.com/RikkoMatsumatoOfficial)
 
