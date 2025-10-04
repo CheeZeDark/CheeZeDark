@@ -1,5 +1,5 @@
 > [!NOTE]
-> I don't have a much time to create a projects or something else due to my new work in Managements!!! Thank you for Reading this.
+> I don't have a time to create a projects or something else due to my new work in Managements!!! Thank you for Reading this.
 
 # Hello, My Name is CheeZeDark(Rikko Matsumato)
 
