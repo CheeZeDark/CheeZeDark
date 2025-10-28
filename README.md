@@ -4,6 +4,8 @@ I'm Programming into C#, C++, Python, Ren'Py, Rust, Java, TypeScript, JavaScript
 
 Also Learning Programming into Kali Linux and Programming Languages as SystemVerilog and Verilog for Educational Purposal and Creating some DMA Driver Devices!!!
 
+[Join To My Discord Server](https://discord.gg/djZdEFfTNF)
+
 [My GitLab Account](https://gitlab.com/RikkoMatsumatoOfficial)
 
 ## Donations
